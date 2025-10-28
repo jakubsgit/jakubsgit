@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
+I'm a Senior Fullstack Developer at Heshgraph Group working with TypeScript, NestJS, and Solidity.
 
-<!--
-**jakubsgit/jakubsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Building digital identity tools at [Swiss Digital Assets Institute](https://github.com/Swiss-Digital-Assets-Institute)
+- ⚙️ Experienced with Hashgraph, LayerZero, and EVM ecosystems
+- 🌱 Currently exploring AI-assisted dev workflows
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jakubslinked/)
