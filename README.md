@@ -1,5 +1,7 @@
 # Hi, I'm Jakub 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web3+Developer;Blockchain+Engineer;Frontend+Architect;Tech+Leader)](https://git.io/typing-svg)
+
+
 I'm a Senior Fullstack Developer at Heshgraph Group working with TypeScript, NestJS, and Solidity.
 
 ## 🚀 About Me
